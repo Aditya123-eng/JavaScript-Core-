@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 200px;
+    background-color: rgb(205, 154, 154);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: antiquewhite;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: medium;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+button{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(223, 83, 83);
+    color: aliceblue;
+    cursor: pointer;
+    
+}
+
+/*  */
